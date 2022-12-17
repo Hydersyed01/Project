@@ -1,0 +1,100 @@
+1:  
+Health:  1000.0
+Energy:  1000
+
+2:  
+Health:  1000.0
+Energy:  1000
+
+3:  
+Health:  1000.0
+Energy:  1000
+
+4:  
+Health:  1000.0
+Energy:  1000
+
+5:  
+Health:  1000.0
+Energy:  1000
+
+6:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+7:  
+Health:  1000.0
+Energy:  1000
+
+8:  
+Health:  1000.0
+Energy:  1000
+
+9:  
+Health:  1000.0
+Energy:  1000
+
+10:  
+Health:  1000.0
+Energy:  1000
+
+11:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+12:  
+Health:  1000.0
+Energy:  1000
+
+13:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+14:  
+Health:  1000.0
+Energy:  1000
+
+15:  
+Health:  1000.0
+Energy:  1000
+
+16:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+17:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+18:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+19:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+20:  
+Health:  881.0
+Energy:  1000
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
+21:  
+Health:  363.0
+Energy:  1000
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
+22:  
+Health:  82.40000000000009
+Energy:  1000
+Player has collided with:  a tree.
+

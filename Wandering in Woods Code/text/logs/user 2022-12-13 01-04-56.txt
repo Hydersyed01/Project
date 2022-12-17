@@ -1,0 +1,209 @@
+1:  
+Health:  1000.0
+Energy:  1000
+
+2:  
+Health:  1000.0
+Energy:  1000
+
+3:  
+Health:  1000.0
+Energy:  1000
+
+4:  
+Health:  1000.0
+Energy:  1000
+
+5:  
+Health:  1000.0
+Energy:  1000
+
+6:  
+Health:  1000.0
+Energy:  1000
+
+7:  
+Health:  1000.0
+Energy:  1000
+
+8:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+9:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+10:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+11:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+12:  
+Health:  1000.0
+Energy:  460
+
+13:  
+Health:  1000.0
+Energy:  522
+
+14:  
+Health:  1000.0
+Energy:  582
+
+15:  
+Health:  1000.0
+Energy:  642
+
+16:  
+Health:  1000.0
+Energy:  700
+
+17:  
+Health:  1000.0
+Energy:  760
+Player has collided with:  a tree.
+
+18:  
+Health:  1000.0
+Energy:  822
+Player has collided with:  a tree.
+
+19:  
+Health:  1000.0
+Energy:  585
+Player has collided with:  a tree.
+
+20:  
+Health:  1000.0
+Energy:  345
+
+21:  
+Health:  1000.0
+Energy:  410
+
+22:  
+Health:  1000.0
+Energy:  472
+
+23:  
+Health:  1000.0
+Energy:  531
+
+24:  
+Health:  1000.0
+Energy:  592
+
+25:  
+Health:  1000.0
+Energy:  653
+
+26:  
+Health:  1000.0
+Energy:  714
+
+27:  
+Health:  1000.0
+Energy:  773
+
+28:  
+Health:  1000.0
+Energy:  838
+
+29:  
+Health:  1000.0
+Energy:  899
+
+30:  
+Health:  1000.0
+Energy:  961
+
+31:  
+Health:  1000.0
+Energy:  1000
+
+32:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+33:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+34:  
+Health:  1000.0
+Energy:  709
+Player has collided with:  a tree.
+
+35:  
+Health:  1000.0
+Energy:  471
+Player has collided with:  a tree.
+
+36:  
+Health:  1000.0
+Energy:  533
+Player has collided with:  a tree.
+
+37:  
+Health:  1000.0
+Energy:  595
+Player has collided with:  a tree.
+
+38:  
+Health:  1000.0
+Energy:  357
+Player has collided with:  a tree.
+
+39:  
+Health:  1000.0
+Energy:  124
+Player has collided with:  a tree.
+
+40:  
+Health:  1000.0
+Energy:  185
+Player has collided with:  a tree.
+
+41:  
+Health:  1000.0
+Energy:  246
+Player has collided with:  a tree.
+
+42:  
+Health:  1000.0
+Energy:  307
+Player has collided with:  a tree.
+
+43:  
+Health:  1000.0
+Energy:  370
+Player has collided with:  a tree.
+
+44:  
+Health:  986.0
+Energy:  431
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
+45:  
+Health:  545.0
+Energy:  494
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
+46:  
+Health:  111.0
+Energy:  556
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
